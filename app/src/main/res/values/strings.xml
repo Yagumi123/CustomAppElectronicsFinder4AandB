@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Components Library</string>
+
+    <string name="remove_selected">Remove Selected</string>
+    <string name="add_component">Add Component</string>
+    <string name="search_hint">Search components</string>
+    <string name="title_components_library">Components Library</string>
+    <string name="title_activity_add_component">title_activity_add_component</string>
+    <string name="textview_title">Components Library</string>
+    <string name="button_remove_selected">Remove Selected</string>
+    <string name="button_add_component">Add Component</string>
+    <string name="edittext_search">edittext_search</string>
+    <string name="spinner_filter">Filter Options</string>
+    <string name="btnAddComponent">Add Component </string>
+    <string name="btnSave">Save</string>
+    <string name="settings">Settings</string>
+    <string-array name="filter_options">
+        <item>Name</item>
+        <item>Category</item>
+        <item>Type</item>
+        <item>Value</item>
+        <item>Quantity</item>
+        <item>Location</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_edit_and_find_component">EditAndFindComponent</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
